@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionpecrypt",
+        "uuid": 22635320,
+        "checksum": "roo95f"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
